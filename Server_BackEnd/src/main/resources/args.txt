@@ -1,0 +1,9 @@
+dataBase
+5432
+kali
+kali
+Server_BackEnd/src/main/resources/BackendPriv.key
+_
+Server_BackEnd/src/main/resources/ClientPub.key
+Server_BackEnd/src/main/resources/ClientPub2.key
+5000
